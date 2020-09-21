@@ -9,6 +9,25 @@
     background-position: center center;
     height: 100vh;
     }
+
+.h1 {
+    color: #262626;
+    font-size: large;
+}
+.flex.title {
+  display: flex; 
+  justify-content: center; 
+  flex-direction: column; 
+   flex-wrap: ;
+}
+
+
+
+.logo {
+    max-width: 100px;
+    height: 100px;
+}
+
     
     .wrapper{
     width: 860px; 
