@@ -4,7 +4,6 @@ body{
     padding: 0;
     background-color:wheat ;
     font-family: 'Montserrat', sans-serif;
-    background-image: url(1.jpg);  
     -webkit-background-size:cover;
     background-size:cover;
     background-position: center center;
@@ -217,4 +216,31 @@ input.MyButton:hover {
   background-color: black;
   color: white;
 }
-</style>
+
+.carousel1 {
+  position: absolute;
+  width: 50%; 
+  display:flex;
+  justify-content: center;
+  color: black
+}
+
+.carouselimg1 {
+  
+height: 300px;
+  kerning: 500px;
+  background-size: cover;
+  display:inline-block;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.carouselbtn1 {
+
+position: absolute;
+width: 100%; 
+color: black;
+font-size:1.5em;
+cursor: pointer;
+text-transform:uppercase;
+}
