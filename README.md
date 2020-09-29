@@ -2,12 +2,8 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/Babsyi/CodeFirstGirls-HTML/blob/master/Image/Logo.png">
-    <img src="images/Logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <div class="banner">
+  <p align="center">
 <img src="Image/Logo.png" class="logo" alt="Logo">
   
 <!-- TABLE OF CONTENTS -->
