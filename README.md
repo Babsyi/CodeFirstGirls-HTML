@@ -1,4 +1,4 @@
-# CodeFirstGirls-HTML
+# CodeFirstGirls, HTML Course August-September 2020
 
 <!-- PROJECT LOGO -->
 <br />
