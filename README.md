@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Babsyi/CodeFirstGirls-HTML/blob/master/Image/Logo.png">
     <img src="images/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
