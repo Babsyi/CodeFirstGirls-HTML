@@ -204,7 +204,7 @@ input.MyButton {
   -ms-transform: translate(-50%, -50%);
   background-color: #f1f1f1;
   color: black;
-  font-size: 400px;
+  font-size: 161px;
   padding: 16px 30px;
   border: none;
   cursor: pointer;
@@ -218,10 +218,28 @@ input.MyButton:hover {
 
 .carousel1 {
   position: absolute;
-  width: 100%; 
+  width: 50%; 
   display:flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  color: black;
+  justify-content: center;
+  color: black
+}
+
+.carouselimg1 {
+  
+height: 300px;
+  kerning: 500px;
+  background-size: cover;
+  display:inline-block;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.carouselbtn1 {
+
+position: absolute;
+width: 100%; 
+color: black;
+font-size:1.5em;
+cursor: pointer;
+text-transform:uppercase;
 }
