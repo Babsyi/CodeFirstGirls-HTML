@@ -7,7 +7,9 @@
     <img src="images/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
-
+<div class="banner">
+<img src="Image/Logo.png" class="logo" alt="Logo">
+  
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
