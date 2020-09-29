@@ -26,8 +26,9 @@ This is a project in partnership with Code First Girls, you will find here our f
 Should you want to contact us to have more information about the project or anything, you will be able to find us on our LinkedIn listed below: 
 
 * [Barbara](https://github.com/Babsyi) -  [LinkedIn](https://www.linkedin.com/in/barbara-balogun-168354108/)
-* [Marie](https://github.com/mdesaules) - [LinkedIn](https://www.linkedin.com/in/marie-desaules-7aa496183/)
 * [Emily](https://github.com/ffoxx601) - [LinkedIn]
+* [Marie](https://github.com/mdesaules) - [LinkedIn](https://www.linkedin.com/in/marie-desaules-7aa496183/)
+
 
 Project Link: [https://github.com/Babsyi/CodeFirstGirls-HTML](https://github.com/Babsyi/CodeFirstGirls-HTML)
 
